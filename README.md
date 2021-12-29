@@ -9,9 +9,6 @@
 
 - 🤖 I am mostly interested in perception/localization/SLAM in anything related to robotics. You can see this by following my pinned repos and the carreer path on [LinkedIn](https://www.linkedin.com/in/igor-bogoslavskyi/). I have a PhD in robotics from the university of Bonn and I've published and presented at various robotics conferences like ICRA, IROS, RosCon etc.
 - 💻 I am also fond of C++, I've talked at CppCon and am maintaining [EasyClangComplete](https://github.com/niosus/EasyClangComplete) - a Sublime Text 3/4 plugin for C++ code completion. Please donate something or sponsor me on GitHub if you find this effort useful!
-- 🎵 I am currently listening to this music: 
-
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1121839840&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 [img-paypal]: https://img.shields.io/badge/Donate-PayPal-blue.svg?style=for-the-badge
 [donate-paypal]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2QLY7J4Q944HS
