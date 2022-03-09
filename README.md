@@ -1,3 +1,10 @@
+# 🇺🇦 !Save Ukraine! 🇺🇦
+
+# Stop Putin!
+
+<details>
+  <summary>Irrelevant now information</summary>
+  
 # Hi 👋, I'm Igor!
 
 ![GitHub followers](https://img.shields.io/github/followers/niosus?label=github%20followers&style=for-the-badge)
@@ -35,6 +42,7 @@
 - 💻 I am also fond of C++, I've talked at CppCon and am maintaining [EasyClangComplete](https://github.com/niosus/EasyClangComplete) - a Sublime Text 3/4 plugin for C++ code completion. Please donate something or sponsor me on GitHub if you find this effort useful!
 
 
+</details>
 
 
 [img-paypal]: https://img.shields.io/badge/Donate-PayPal-blue.svg?style=for-the-badge
