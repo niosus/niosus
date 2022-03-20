@@ -1,9 +1,9 @@
-# 🇺🇦 !Save Ukraine! 🇺🇦
+# 🇺🇦 Save Ukraine! 🇺🇦
 
-# Stop Putin!
+# Stop Putin's war in Ukraine! 
 
 <details>
-  <summary>Irrelevant now information</summary>
+  <summary>Irrelevant for now information</summary>
   
 # Hi 👋, I'm Igor!
 
