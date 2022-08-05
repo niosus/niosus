@@ -9,7 +9,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/niosus?label=github%20followers&style=for-the-badge)
 ![GitHub User's stars](https://img.shields.io/github/stars/niosus?affiliations=OWNER%2CCOLLABORATOR&label=total%20stars%20earned&style=for-the-badge&color=red)
-[![Visits Badge](https://badges.pufler.dev/visits/niosus/niosus?style=for-the-badge)](https://badges.pufler.dev)
+![Visits Badge](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=niosus.niosus&color=55acb7&style=for-the-badge&logo=Github)
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/niosus?color=orange&style=for-the-badge)
 [![Donate][img-paypal]][donate-paypal]
 
