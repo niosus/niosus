@@ -1,6 +1,11 @@
 # 🇺🇦 Save Ukraine! 🇺🇦
 
-# Stop Putin's war in Ukraine! 
+The war in the middle of Europe is unfathomable. We must do whatever we can to stop russia's imperialistic agression. While my heart bleeds for Ukraine, it's not just about one country. It is a about an cutocratic regimes doing the only thing they can against the democratic world - waging war. We must do whatever is in our power to stop russia and whoever supports them. This is our way to show that we as humanity are better than that.
+
+Please consider providing any support that you can: https://supportukrainenow.org
+Anything helps. Donate to military or humanitarian causes if you can, host displaced Ukrainians in Europe or spread the word about this whole situation at the very least.
+
+Thanks you!
 
 <details>
   <summary>Irrelevant for now information</summary>
@@ -9,7 +14,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/niosus?label=github%20followers&style=for-the-badge)
 ![GitHub User's stars](https://img.shields.io/github/stars/niosus?affiliations=OWNER%2CCOLLABORATOR&label=total%20stars%20earned&style=for-the-badge&color=red)
-![Visits Badge](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=niosus.niosus&color=55acb7&style=for-the-badge&logo=Github)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=niosus%2Fniosus&countColor=%23263759)
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/niosus?color=orange&style=for-the-badge)
 [![Donate][img-paypal]][donate-paypal]
 
