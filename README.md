@@ -1,4 +1,4 @@
-# 🇺🇦 Save Ukraine! 🇺🇦
+# 🇺🇦 Stand With Ukraine! 🇺🇦
 
 The war in the middle of Europe is unfathomable. We must do whatever we can to stop russia's imperialistic agression. While my heart bleeds for Ukraine, it's not just about one country. It is a about autocratic regimes doing the only thing they can against the democratic world - waging war. We must do whatever is in our power to stop russia and whoever supports them. This is our way to show that we as humanity are better than that.
 
@@ -6,7 +6,7 @@ Please consider providing any support that you can: https://supportukrainenow.or
 
 Anything helps. Donate to military or humanitarian causes if you can, host displaced Ukrainians in Europe or spread the word about this whole situation at the very least.
 
-Thanks you!
+Thank you!
 
 <details>
   <summary>Irrelevant for now information</summary>
