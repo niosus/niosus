@@ -20,6 +20,7 @@ Thank you!
 [![Donate][img-paypal]][donate-paypal]
 
 
+- I am teaching C++ on my [YouTube channel](https://www.youtube.com/@CodeForYourself). A good starting point is this GitHub organization: https://github.com/cpp-for-yourself
 - 🤖 I am mostly interested in perception/localization/SLAM in anything related to robotics. You can see this by following my pinned repos and the carreer path on [LinkedIn](https://www.linkedin.com/in/igor-bogoslavskyi/). I have a PhD in robotics from the university of Bonn, from the [Cyrill Stachniss'](https://www.ipb.uni-bonn.de/people/cyrill-stachniss/) lab and I've published and presented at various robotics conferences like ICRA, IROS, RosCon etc. (see the list of publications below)
   <details>
   <summary>My publications (see also my <a href="https://scholar.google.de/citations?user=4HpTpIQAAAAJ&hl=en">Google Scholar</a>)
